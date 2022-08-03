@@ -19,9 +19,11 @@ Implementing Perceptron learning algorithm from scratch
 
 The codes which are implemented in this repository , were studied through Machine Learning with PyTorch by Sebastian Raschka book. If you would like to use the codes given in that repository , I would appreciate citations as follows :
 
+```
 @misc{rasbt,
       title={Machine Learning with PyTorch by Sebastian Raschka}, 
       author={Sebastian Raschka},
       year={2022},
 }
 
+```
